@@ -1,30 +1,18 @@
-# Brain-Tumor-Detection-using-Image-Processing
-Brain Tumour Extraction from MRI Images Using MATLAB
 
-
-
-
-
+MATLAB Projects
 
 Introduction
 
-The field of medicine is always a necessity and development in them is basic necessity for betterment of human kind
-Medical image processing is the most challenging and emerging field now a days. Processing of MRI images is one
-Of the part of this field. Identification Tumour are rising problem as there is rise in people being affected by tumour this rise is caused by lot of factors from habits to pollution . Locating a tumour as always been problem as that requires a lot of experience of human anatomy which is requires a lot of time. 
-This project describes the proposed strategy to detect & extraction of brain tumour from patients. 
+•	Car Number Plate Detection Using MATLAB and Image Processing.
 
-MRI scan images of the brain. This method incorporates with, segmentation and morphological operations which are the basic concepts of image processing. Detection and extraction of tumour from MRI scan images of the brain is done by using MATLAB software. We first want concentrate creating a program which requires a small processing time for result .
+The ANPR (Automatic Number Plate Recognition) system is based on image processing technology. The main objective here is to design an efficient automatic vehicle identification system by using vehicle number plate. The system is implemented and simulated on MATLAB and performance is tested on real images. The system takes digital images of vehicles with their license plates visible and extracts license plate characters as a string of alphanumeric characters, and yields hypothetical user data from a related database corresponding to the extracted characters as output. The designed system is to work with reasonable accuracy if the digital image is of good resolution, and vehicle license plate has standard font in the region of interest.
+
+•	Brain Tumor Extraction from MRI Images Using MATLAB (Ongoing)
+
+The main theme of the project is to extract the brain tumors from the MRI images with some noise removal functions, segmentation and morphological operations which are the basic concepts of image processing using MATLAB software. The brain tumor detection is a great help for the physicians and a boon for the medical imaging and industries working on the production of MRI imaging. The extracted tumor can be classified to be malignant or benign in the future. 
 
 Executing the code
 
 1.	Open the Code in matlab
-2.	Change the directory for each input image
-
-   Example for image 5
-   I=imread('C:\Users\Naren Adithya\Desktop\5.jpg');
-
+2.	Change the directory for each input
 3.	Run the code
-
-
-
-
